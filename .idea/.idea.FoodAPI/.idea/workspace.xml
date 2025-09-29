@@ -8,145 +8,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed66f76-a425-415e-b6ba-ef5fc191e03e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FoodAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FoodAPI/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3d24574-a983-4639-a351-1d0c5a5bd996" name="Changes" comment="Merge branch 'main' of https://github.com/PracticaParcialAyuda/FoodAPI&#10;&#10;# Conflicts:&#10;#&#9;.idea/.idea.FoodAPI/.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DpaMonitoringSettings">
-    <option name="firstShow" value="false" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;VictoriaFHM&quot;
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PracticaParcialAyuda/FoodAPI.git&quot;,
-    &quot;accountId&quot;: &quot;4e690465-014c-4699-a111-924ead29cf18&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
 }]]></component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/Personal/RiderProjects/FoodAPI/Data/AppDbContext.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="33M27z6q5IpjiZE4fQwQR8agkqK" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.FoodAPI: http.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.FoodAPI: http">
-    <configuration name="FoodAPI: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/FoodAPI.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="http" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="FoodAPI: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/FoodAPI.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="https" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="0ed66f76-a425-415e-b6ba-ef5fc191e03e" name="Changes" comment="" />
-      <created>1759112461019</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1759112461019</updated>
-      <workItem from="1759112464975" duration="3008000" />
-    </task>
-    <task id="LOCAL-00001" summary="Holaa">
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/PracticaParcialAyuda/FoodAPI&#10;&#10;# Conflicts:&#10;#&#9;.idea/.idea.FoodAPI/.idea/workspace.xml">
       <option name="closed" value="true" />
-      <created>1759114424190</created>
+      <created>1759115912704</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1759114424190</updated>
+      <updated>1759115912704</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
-  <component name="VcsManagerConfiguration">
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Holaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Holaa" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
 </project>
