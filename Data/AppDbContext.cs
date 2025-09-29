@@ -6,4 +6,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
 {
     public DbSet<Taco> Tacos { get; set; }
     public DbSet<Pizza>Pizzas { get; set; }
+    
+    public DbSet<Burger> Burgers { get; set; } = null!;
+
 }
