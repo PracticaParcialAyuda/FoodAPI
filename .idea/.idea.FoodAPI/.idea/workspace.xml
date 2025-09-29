@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d24574-a983-4639-a351-1d0c5a5bd996" name="Changes" comment="Merge branch 'main' of https://github.com/PracticaParcialAyuda/FoodAPI&#10;&#10;# Conflicts:&#10;#&#9;.idea/.idea.FoodAPI/.idea/workspace.xml" />
+    <list default="true" id="c3d24574-a983-4639-a351-1d0c5a5bd996" name="Changes" comment="Listooooo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,8 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="TaskManager">
@@ -32,9 +33,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759115912704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Listooooo">
+      <option name="closed" value="true" />
+      <created>1759116072491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759116072491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Listooooo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listooooo" />
+  </component>
 </project>
